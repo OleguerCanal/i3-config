@@ -16,7 +16,7 @@ This repo is a backup of the config files of my i3wm
 
 4. Download repo
 
-`cd ~/.config/; git clone https://github.com/OleguerCanal/i3-config.git; mv -r i3-config i3`
+`cd ~/.config/; git clone https://github.com/OleguerCanal/i3-config.git; rm -rf i3; mv i3-config/ i3`
 
 5. Install dependencies:
 
