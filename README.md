@@ -18,14 +18,11 @@ This repo is a backup of the config files of my i3wm
 
 `cd ~/.config/; git clone https://github.com/OleguerCanal/i3-config.git; rm -rf i3; mv i3-config/ i3`
 
-5. Install i3 dependencies:
+5. Setup everything as I like:
 
-`./install-i3-dep.sh`
+`./setup.sh`
 
-6. Install extra programs (ex: visual-studi-code, spotify...)
-
-`./install-programs.sh`
-
+**NOTE:** Alternatively, you can install independently each program by looking at the installers folder.
 
 
 ## Customization/extra steps:
